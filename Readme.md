@@ -4,5 +4,15 @@
 
 #### Author(s) information
 MBOYIRE Delphine
+## Setup/Installation Requirements
+Computer
+Internet
+Google chrome type MBOYIRE.github.io/friday
+Terminal
+Visual Audio
+GitHub
+
+
+
 
   
