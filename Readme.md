@@ -11,8 +11,11 @@ Google chrome type MBOYIRE.github.io/friday
 Terminal
 Visual Audio
 GitHub
-
-
+## Technologies Used
+HTML
+CSS
+JAVA SCRIPT
+GIT COMMAND
 
 
   
