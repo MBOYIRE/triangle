@@ -16,6 +16,10 @@ HTML
 CSS
 JAVA SCRIPT
 GIT COMMAND
+## Support and contact details
+Email:mboyire14@gmail.com
+Location:Kigali-Remera
+
 
 
   
