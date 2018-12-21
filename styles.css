@@ -68,7 +68,7 @@ button:active {
  }
  /*for the answer paragraph*/
 #demo{
-    text-align:center;
+    text-align:right;
     font-size:24px;
     color:palevioletred;
     background-color:green;
