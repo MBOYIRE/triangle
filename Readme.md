@@ -13,10 +13,8 @@ Visual Audio
 GitHub
 ##BDD
 Some of instruction that I used
-I declared the variables, javascript functions
-  
-
-
+I declared the variables, javascript functions,arrays in javascript,html tags and elements,css.
+ I made  the way you can  enter the length values of the three sides of my triangle in the application,after submitting my values, the application should tell you what type of triangle my values will produce, whether an isosceles, equilateral, scalene or NO triangle at all.
 ## Technologies Used
 HTML
 CSS
