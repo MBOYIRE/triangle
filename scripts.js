@@ -47,7 +47,7 @@ function outputmessage() {
     ) {
         text = " scalene";
     }
-    //if triangle is eror
+    //if triangle is error
     else {
         text = " error";
     }
